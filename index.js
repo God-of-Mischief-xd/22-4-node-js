@@ -1,4 +1,4 @@
-const express = require("express")
+   /const express = require("express")
 const connectDB = require("./src/config/connectDB.js")
 const AuthRouter = require("./src/features/auth/auth.routes.js")
 const app = express()
